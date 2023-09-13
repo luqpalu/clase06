@@ -1,0 +1,102 @@
+[
+        {
+            "id": 3652462,
+            "name": "Quito",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -78.524948,
+                "lat": -0.22985
+            }
+        },
+        {
+            "id": 3657509,
+            "name": "Guayaquil",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -79.900002,
+                "lat": -2.16667
+            }
+        },
+        {
+            "id": 3658666,
+            "name": "Cuenca",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -78.98333,
+                "lat": -2.88333
+            }
+        },
+        {
+            "id": 3660346,
+            "name": "Baños",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -78.416672,
+                "lat": -1.4
+            }
+        },
+        {
+            "id": 3654665,
+            "name": "Provincia de Loja",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -79.5,
+                "lat": -4.16667
+            }
+        },
+        {
+            "id": 3651297,
+            "name": "Santo Domingo de los Colorados",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -79.150002,
+                "lat": -0.25
+            }
+        },
+        {
+            "id": 3654533,
+            "name": "Machala",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -79.966667,
+                "lat": -3.26667
+            }
+        },
+        {
+            "id": 3654410,
+            "name": "Manta",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -80.73333,
+                "lat": -0.95
+            }
+        },
+        {
+            "id": 3652941,
+            "name": "Portoviejo",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -80.449997,
+                "lat": -1.05
+            }
+        },
+        {
+            "id": 3660689,
+            "name": "Ambato",
+            "state": "",
+            "country": "EC",
+            "coord": {
+                "lon": -78.616753,
+                "lat": -1.24908
+            }
+        }
+]
